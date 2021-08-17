@@ -1,0 +1,12 @@
+---
+title: "Project_Markdown"
+author: "Alisha Kulkarni"
+date: "17/08/2021"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is an R Markdown
